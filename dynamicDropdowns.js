@@ -1,11 +1,11 @@
 // Mapping of countries to states and states to cities
 const locationData = {
-    IN: {
+  Income: {
       Salary: ['Bank','others'],
       Saving: ['Chit', 'others'],
     },
-    US: {
-        Must: ['Shopping', 'Medical'],
+    Expense: {
+        Must: ['Shopping', 'Medical', 'School Fees'],
       Optional: ['Movies', 'Entertainment'],
     },
   };
